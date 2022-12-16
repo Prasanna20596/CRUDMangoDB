@@ -1,0 +1,9 @@
+/home/tts_466-prasanna/Prasanna/Boot Projects/CRUDMangoDB/src/main/java/com/crud/mangodb/controller/StudentController.java
+/home/tts_466-prasanna/Prasanna/Boot Projects/CRUDMangoDB/src/main/java/com/crud/mangodb/exception/ValidationHandler.java
+/home/tts_466-prasanna/Prasanna/Boot Projects/CRUDMangoDB/src/main/java/com/crud/mangodb/model/StudentDetails.java
+/home/tts_466-prasanna/Prasanna/Boot Projects/CRUDMangoDB/src/main/java/com/crud/mangodb/repository/StudentRepository.java
+/home/tts_466-prasanna/Prasanna/Boot Projects/CRUDMangoDB/src/main/java/com/crud/mangodb/ServletInitializer.java
+/home/tts_466-prasanna/Prasanna/Boot Projects/CRUDMangoDB/src/main/java/com/crud/mangodb/model/IDSequence.java
+/home/tts_466-prasanna/Prasanna/Boot Projects/CRUDMangoDB/src/main/java/com/crud/mangodb/CrudMangoDbApplication.java
+/home/tts_466-prasanna/Prasanna/Boot Projects/CRUDMangoDB/src/main/java/com/crud/mangodb/serviceimplem/StudentServiceImplem.java
+/home/tts_466-prasanna/Prasanna/Boot Projects/CRUDMangoDB/src/main/java/com/crud/mangodb/service/StudentService.java
